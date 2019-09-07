@@ -7,6 +7,21 @@ body {
     background-image: url("/assets/images/concrete-texture/concrete-texture.png")
 }
 
+.container {
+    background-color: #ffffff;
+    padding-bottom: 200px;
+    
+}
+
+h2 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+ 
+#profilePic {
+    margin-left: 20px;
+}
+
 .navbar-brand {
     background: #4aaaa5;
     margin: none;
@@ -16,6 +31,8 @@ body {
 #main-section {
     width: 960px;
 }
+
+
 
 .rowFooter {
     padding: 30px 0;
@@ -29,3 +46,10 @@ body {
     height: 100px;
 }
 
+.work {
+ position: relative;
+ float: left;
+ width: 200px;
+ margin: 25px 10px 25px 10px;
+ overflow: auto;
+}
