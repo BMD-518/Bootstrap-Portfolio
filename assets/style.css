@@ -10,12 +10,12 @@ body {
 .container {
     background-color: #ffffff;
     padding-bottom: 200px;
-    
 }
 
+h1,
 h2 {
-    margin-top: 30px;
     margin-left: 20px;
+    color: #4aaaa5;
 }
  
 #profilePic {
@@ -46,10 +46,3 @@ h2 {
     height: 100px;
 }
 
-.work {
- position: relative;
- float: left;
- width: 200px;
- margin: 25px 10px 25px 10px;
- overflow: auto;
-}
